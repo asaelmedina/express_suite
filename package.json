@@ -1,0 +1,16 @@
+{
+  "name": "express_suite",
+  "version": "1.0.0",
+  "description": "crea formularios web de manera rapida y elegante",
+  "main": "index.js",
+  "repository": "https://github.com/asaelmedina/express_suite",
+  "author": "Asael Medina",
+  "license": "GNU",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "sweetalert2": "^9.14.0"
+  },
+  "scripts": {
+    "postinstall": "bower install"
+  }
+}

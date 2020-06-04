@@ -1,0 +1,21 @@
+{
+  "name": "express_suite",
+  "description": "crea formularios web de manera rapida y elegante",
+  "main": "index.js",
+  "authors": [
+    "Asael Medina"
+  ],
+  "license": "GNU",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "select2": "^4.0.13"
+  }
+}
